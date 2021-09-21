@@ -1,4 +1,5 @@
-# DjangoUnivCrudApiRestFramework
+# Django-Univ-Crud-Api-Rest-Framework
+
 Al Repositorio realizado anteriormente (DjangoUniversidadCrud), le agregamos la posibilidad de entregar información a través de la API-REST.
 
 URL para acceder a la API: http://127.0.0.1:8000/api/
