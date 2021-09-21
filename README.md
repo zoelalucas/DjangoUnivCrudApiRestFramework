@@ -28,6 +28,6 @@ Method Put-Delete:
 
 ![image](https://user-images.githubusercontent.com/77742059/134206744-d78a9f69-e4e2-4115-9d72-4718ba66ee50.png)
 
-Format Json:
+Json Format:
 
 ![image](https://user-images.githubusercontent.com/77742059/134206859-d6e19ba3-8dbb-498a-bff5-69b9282ef3e8.png)
